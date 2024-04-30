@@ -1,0 +1,27 @@
+*{
+margin: 0px;
+padding: 0px;
+font-family: Arial, Helvetica, sans-serif;
+box-sizing: border-box;
+}
+body{
+    background-color: #ffa07a;
+}
+.container{
+    position: relative;
+    top: 200px;
+}
+input{
+    margin-bottom: 10px;
+    width: 500px;
+}
+button{
+    background-color: #ea8157;
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+button:hover{
+    background-color: #f09774;
+}
